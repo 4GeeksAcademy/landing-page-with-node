@@ -1,4 +1,4 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Landing page con Node.js
+# Landing page con Node.js
 
 ```
 🔥 Este ejercicio está diseñado para realizarse de 1 o máximo 2 personas.
