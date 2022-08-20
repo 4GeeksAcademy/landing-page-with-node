@@ -1,12 +1,12 @@
 {
-	"slug" : "sample-slug",
-	"title" : "Sample Project",
+	"slug" : "landing-page-with-node",
+	"title" : "Landing Page with Node and Express",
 	"preview": "https://path/to/image.png",
 	"status": "draft",
-	"translations": ["us"],
-	"technologies": ["some-technology"],
+	"translations": ["us", "es"],
+	"technologies": ["node", "nodejs", "express", "express-generator"],
 	"difficulty": "beginner",
 	"syntax": null,
 	"duration" : 2,
-	"description" : "Describe your proyect with 250 chars max"
+	"description" : "La idea es crear con Bootstrap renderizar los diferentes elementos dentro del diseñor y pasar los datos a mostrar dinamicamente, todos los elementos se deven cargar en una vista principal llamada home.ejs"
 }
